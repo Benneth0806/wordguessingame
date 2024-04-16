@@ -49,7 +49,7 @@ namespace wordguessingame
             else
             {
                 listBox1.Items.Add(word);
-                MessageBox.Show("Wrong Guess, Try again");
+                MessageBox.Show("Wrong Guess, Try again!");
             }
         }
     }
